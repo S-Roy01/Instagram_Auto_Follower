@@ -12,3 +12,51 @@ Instructions:
     4. If you had any questions ask me
 
 #Auto Follower
+<div class="text-box">
+
+    <a href="#" class="btn btn-white btn-        animate">click me</a>
+
+</div>
+
+
+body {
+
+    font-family: sans-serif;
+
+    background-color: #81d4fa;
+
+    font-weight: bold;
+
+}
+
+.text-box {
+
+    margin-left: 44vw;
+
+   margin-top: 42vh;
+
+}
+
+.btn:link,
+
+.btn:visited {
+
+    text-transform: uppercase;
+
+    text-decoration: none;
+
+    padding: 15px 40px;
+
+    display: inline-block;
+
+    border-radius: 100px;
+
+    transition: all .2s;
+
+    position: absolute;
+
+}
+
+.btn:hover {
+
+    transform: translateY(-
