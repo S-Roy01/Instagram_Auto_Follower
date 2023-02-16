@@ -13,5 +13,8 @@ Instructions:
 
 #Auto Follower 
 
-
+  ░▀▀█░█▀█░█░█░▀█▀░█▀▀░█░█░█▀▀░█▀▄
+  ░▄▀░░█▀▀░█▀█░░█░░▀▀█░█▀█░█▀▀░█▀▄
+  ░▀▀▀░▀░░░▀░▀░▀▀▀░▀▀▀░▀░▀░▀▀▀░▀░▀ 
+  
 Direct Download link: https://github.com/S-Roy01/Instagram_Auto_Follower/raw/main/Instagram%20Auto%20Follower.apk
